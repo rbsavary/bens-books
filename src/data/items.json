@@ -2,25 +2,25 @@
     {
         "id": 1,
         "name": "Marcus Aurelius Meditations",
-        "imgUrl": "/imgs/meditations.jpg",
-        "price": 4999.95
+        "price": 4999.95,
+        "imgUrl": "/imgs/meditations.jpg"
     },
     {
         "id": 2,
         "name": "Homer's Iliad",
-        "imgUrl": "/imgs/iliad.webpd",
-        "price": 324.99
+        "price": 324.99,
+        "imgUrl": "/imgs/iliad.webp"
     },
     {
         "id": 3,
         "name": "Cicero Rhetorica Ad Herennium",
-        "imgUrl": "/imgs/cicero.jpg",
-        "price": 4224.99
+        "price": 4224.99,
+        "imgUrl": "/imgs/cicero.jpg"
     },
     {
         "id": 4,
         "name": "Fables of Aesop",
-        "imgUrl": "/imgs/aesop.jpg",
-        "price": 2979.99
+        "price": 2979.99,
+        "imgUrl": "/imgs/Aesop.jpg"
     }
 ]
