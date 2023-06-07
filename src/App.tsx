@@ -3,7 +3,7 @@ import { Container } from "react-bootstrap"
 import { Home } from "./pages/Home"
 import { Store } from "./pages/Store"
 import { About } from "./pages/About"
-import { Navbar } from "./compnents/Navbar"
+import { Navbar } from "./components/Navbar"
 
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
   
   return (
     <>
-    <Navbar />
+      <Navbar />
       <Container className="mb-4">
         <Routes>
           <Route path="/" element={<Home />}></Route>

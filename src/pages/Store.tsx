@@ -1,3 +1,3 @@
 export function Store() {
-    return <hi>Store</hi>
+    return <h1>Store</h1>
 }
