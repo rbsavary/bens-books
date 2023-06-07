@@ -16,5 +16,11 @@
         "name": "Cicero Rhetorica Ad Herennium",
         "imgUrl": "/imgs/cicero.jpg",
         "price": 4224.99
+    },
+    {
+        "id": 4,
+        "name": "Fables of Aesop",
+        "imgUrl": "/imgs/aesop.jpg",
+        "price": 2979.99
     }
 ]
