@@ -13,7 +13,7 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
                 variant="top"
                 src={imgUrl}
                 height="450px"
-                style={{ objectFit: "cover " }}
+                style={{ objectFit: "fill" }}
             />
         </Card>
     )
