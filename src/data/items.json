@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Marcus Aurelius Meditations",
+        "imgUrl": "/imgs/meditations.jpg",
+        "price": 4999.95
+    },
+    {
+        "id": 2,
+        "name": "Homer's Iliad",
+        "imgUrl": "/imgs/iliad.webpd",
+        "price": 324.99
+    },
+    {
+        "id": 3,
+        "name": "Cicero Rhetorica Ad Herennium",
+        "imgUrl": "/imgs/cicero.jpg",
+        "price": 4224.99
+    },
+]
