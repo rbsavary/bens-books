@@ -5,13 +5,14 @@ import { Store } from "./pages/Store"
 import { About } from "./pages/About"
 import { Navbar } from "./components/Navbar"
 import { ShoppingCartProvider } from "./context/ShoppingCartContext"
-
+import { Header } from "./components/Header"
 
 function App() {
 
 
   return (
     <>
+      <Header />
       <ShoppingCartProvider>
         <Navbar />
         <Container className="mb-4">
